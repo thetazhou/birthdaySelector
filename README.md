@@ -12,17 +12,17 @@ month: 月默认值
 day: 日默认值
 调用方式：
 -----
-1.引入jQuery.js
-2.引入dataSelect.js
-3.html页面如下，注意需要加name=year,nme=month,name=day
-<div id="selector">
-<select name="year"></select>年
-<select name="month"></select>月
-<select name="day"></select>日
-</div>
-4.使用以下语句初始化：
-$("#selector").birthdaySelect({
-    year: 1988,
-    month: 8,
-    day: 8
- });
+>1.引入jQuery.js
+>2.引入dataSelect.js
+>3.html页面如下，注意需要加name=year,nme=month,name=day
+    <div id="selector">
+    <select name="year"></select>年
+    <select name="month"></select>月
+    <select name="day"></select>日
+    </div>
+>4.使用以下语句初始化：
+    $("#selector").birthdaySelect({
+        year: 1988,
+        month: 8,
+        day: 8
+     });
