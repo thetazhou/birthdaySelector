@@ -24,7 +24,7 @@ day: 日默认值
 </div>
 
 4.使用以下语句初始化：
-$("#selector").dateSelect({
+$("#selector").birthdaySelect({
     year: 1988,
     month: 8,
     day: 8
