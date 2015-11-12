@@ -23,7 +23,7 @@ day: 日默认值
 
 >1.引入jQuery.js
 
->2.引入dataSelect.js
+>2.引入birthdaySelect.js
 
 >3.html页面如下，注意需要加name=year,nme=month,name=day
 
